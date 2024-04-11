@@ -5,10 +5,18 @@
     box-sizing: border-box;     
 }
 
-/* html, body {
+html, body {
   margin: 0;
   padding: 0;
 }
 canvas {
+  /* background-color: pink; */
   display: block;
 }
+
+/* #body{
+  width: 100vw;
+  height: 100vh;
+/*   background-color: blue;
+} */
+
